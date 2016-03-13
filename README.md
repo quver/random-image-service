@@ -1,3 +1,3 @@
 # random-image-service
 
-Images from www.lorempixel.com, licence CC BY-SA
+Images from www.lorempixel.com, license CC BY-SA
