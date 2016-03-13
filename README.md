@@ -1,2 +1,3 @@
 # random-image-service
-PHP 
+
+Images from www.lorempixel.com, licence CC BY-SA
